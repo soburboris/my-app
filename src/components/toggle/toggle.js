@@ -13,8 +13,8 @@ const Toggless = styled.div`
     
     `;
     const Collapses = {
-      marginLeft: "10px" 
-
+      marginLeft: "10px",
+        marginRight: "10px"
     };
      
      
@@ -32,10 +32,7 @@ const Toggles = (props) => {
       <Collapse isOpen={isOpen} style={Collapses} >
         <Card>
           <CardBody>
-          Anim pariatur cliche reprehenderit,
-           enim eiusmod high life accusamus terry richardson ad squid. Nihil
-           anim keffiyeh helvetica, craft beer labore wes anderson cred
-           nesciunt sapiente ea proident.
+         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, harum?
           </CardBody>
         </Card>
       </Collapse>
