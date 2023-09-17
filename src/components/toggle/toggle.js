@@ -32,7 +32,7 @@ const Toggles = (props) => {
       <Collapse isOpen={isOpen} style={Collapses} >
         <Card>
           <CardBody>
-         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, harum?
+          Lorem ipsum dolor sit amet, consectetur.
           </CardBody>
         </Card>
       </Collapse>
