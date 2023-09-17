@@ -15,7 +15,7 @@ const AppBlock = styled.div `
          `;
  const StyledAppBlock = styled(AppBlock)`
  
-        background-color:'';
+        background-color: inherit;
         `;
 
 
